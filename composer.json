@@ -12,7 +12,7 @@
     "repositories": [
         {
           "type": "git",
-          "url": "https://github.com/choubchanthou/MyMagento-01"
+          "url": "https://github.com/choubchanthou/API-Crud"
         }
     ],
     "autoload": {
