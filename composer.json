@@ -1,0 +1,24 @@
+{
+    "name": "chanthou/api-crud",
+    "description": "This library",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Choub Chanthou",
+            "email": "chanthou_choub@hotmail.com"
+        }
+    ],
+    "repositories": [
+        {
+          "type": "git",
+          "url": "https://github.com/choubchanthou/MyMagento-01"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "index.php"
+        ]
+    },
+    "require": {}
+}
